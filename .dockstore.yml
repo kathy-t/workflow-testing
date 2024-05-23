@@ -4,3 +4,5 @@ workflows:
      primaryDescriptorPath: /example3/tutorial.ga
      testParameterFiles:
      - /example3/tutorial-job.yml
+     - /example3/data/dataset1.txt
+     - /example3/data/dataset2.txt
