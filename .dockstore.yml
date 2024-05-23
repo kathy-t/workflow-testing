@@ -1,0 +1,6 @@
+version: 1.2
+workflows:
+   - subclass: Galaxy
+     primaryDescriptorPath: /example3/tutorial.ga
+     testParameterFiles:
+     - /example3/tutorial-job.yml
